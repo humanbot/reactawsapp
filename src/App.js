@@ -15,6 +15,7 @@ function App() {
         >
           Manoj Karmocha
         </a>
+        <AmplifySignOut />
       </header>
     </div>
   );
